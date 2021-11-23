@@ -51,7 +51,7 @@ namespace WebSiteBanHang.Models
             else param1 = this.TenSP;
             if (this.HinhAnh == null) param2 = "illegal";
             else param2 = this.HinhAnh;
-            if (this.DonGia == null) param3 = "illegal";
+            if (this.DonGia == null ) param3 = "illegal";
             else param3 = this.DonGia.ToString();
             return param1 + " " + param2 + " " + param3;
         }

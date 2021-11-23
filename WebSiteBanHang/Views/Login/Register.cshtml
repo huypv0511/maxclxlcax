@@ -1,0 +1,156 @@
+﻿@using CaptchaMvc.HtmlHelpers
+@using CaptchaMvc;
+@using WebSiteBanHang.Models
+@model ThanhVien
+@{
+    ViewBag.Title = "Register";
+    Layout = "~/Views/Layout/HomeLayout.cshtml";
+}
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+            background-color: black;
+        }
+
+        * {
+            box-sizing: border-box;
+        }
+
+        /* Add padding to containers */
+
+
+        /* Full-width input fields */
+        input[type=text], input[type=password] {
+            width: 100%;
+            padding: 15px;
+            margin: 5px 0 22px 0;
+            display: inline-block;
+            border: none;
+            background: #f1f1f1;
+        }
+
+            input[type=text]:focus, input[type=password]:focus {
+                background-color: #ddd;
+                outline: none;
+            }
+
+        /* Overwrite default styles of hr */
+        hr {
+            border: 1px solid #f1f1f1;
+            margin-bottom: 25px;
+        }
+
+        /* Set a style for the submit button */
+        .registerbtn {
+            background-color: #04AA6D;
+            color: white;
+            padding: 16px 20px;
+            margin: 8px 0;
+            border: none;
+            cursor: pointer;
+            width: 100%;
+            opacity: 0.9;
+        }
+
+            .registerbtn:hover {
+                opacity: 1;
+            }
+
+        /* Add a blue text color to links */
+        a {
+            color: dodgerblue;
+        }
+
+        /* Set a grey background color and center the text of the "sign in" section */
+        .signin {
+            background-color: #f1f1f1;
+            text-align: center;
+        }
+
+        .float-container {
+            border: 0px;
+            padding: 20px;
+        }
+
+        .float-child {
+            width: 50%;
+            float: left;
+            padding: 20px;
+            border: 0px;
+        }
+    </style>
+</head>
+<body>
+
+    @using (Html.BeginForm())
+    {
+        <div class="container">
+            <h1>Register</h1>
+            <p>Please fill in this form to create an account.</p>
+            <hr>
+
+            <div class="float-container">
+
+                <div class="float-child">
+                    <label for="name"><b>Name</b></label>
+                    @Html.TextBox("HoTen")
+
+                    <label for="address"><b>Address</b></label>
+                    @Html.TextBox("DiaChi")
+
+                    <label for="email"><b>Email</b></label>
+                    @Html.TextBox("Email")
+
+                    <label for="Phone Number"><b>Phone Number</b></label>
+                    @Html.TextBox("SoDienThoai")
+
+                    <label for="Account"><b>Account</b></label>
+                    @Html.TextBox("TaiKhoan")
+                </div>
+
+                <div class="float-child">
+                    <label for="psw"><b>Password</b></label>
+                    @Html.Password("Password")
+
+                    <label for="psw-repeat"><b>Repeat Password</b></label>
+                    @Html.Password("NhapLaiMatKhau")
+
+                    <label for="Secret question"><b>Secret question</b></label>
+                    @Html.DropDownList("CauHoi")
+                    <br />
+                    <label for="Answer"><b>Answer</b></label>
+                    @Html.TextBox("CauTraLoi")
+
+
+                    <div>
+                        @Html.MathCaptcha()
+                    </div>
+                </div>
+
+            </div>
+
+
+
+
+
+            <button type="submit" class="registerbtn">Register</button>
+        </div>
+
+        <div class="container signin">
+            <p>Already have an account? <a href="@Url.Action("DangNhap", "Home")">Sign in</a>.</p>
+        </div>
+        //hiển thị thông báo capcha
+        <h1 style="color:red;"> @ViewBag.ThongBao</h1>
+    }
+
+
+</body>
+
+</html>
+
+

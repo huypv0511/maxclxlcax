@@ -1,4 +1,5 @@
 ﻿using CaptchaMvc.HtmlHelpers;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web.Mvc;
@@ -34,29 +35,59 @@ namespace WebSiteBanHang.Controllers
             ViewBag.ListSP = LstSP;
             return PartialView(LstSP);
         }
-        [HttpGet]
-        public ActionResult DangKy()
-        {
-            ViewBag.CauHoi = new SelectList(LoadCauHoi());
-            return View();
-        }
-        [HttpPost]
-        public ActionResult DangKy(ThanhVien tv)
-        {
-            ViewBag.CauHoi = new SelectList(LoadCauHoi());
-            //kiểm tra capcha hợp lệ
-            if (this.IsCaptchaValid("Capcha is not valid"))
-            {
-                ViewBag.ThongBao = "Success";
-                //thêm khách hàng vào csdl
-                db.ThanhViens.Add(tv);
-                db.SaveChanges();
-                return View();
-            }
-            ViewBag.ThongBao = "Wrong Capcha";
+        //[HttpGet]
+        //public ActionResult DangKy()
+        //{
+        //    ViewBag.CauHoi = new SelectList(LoadCauHoi());
+        //    return View();
+        //}
+        //[HttpPost]
+        //public ActionResult DangKy(ThanhVien tv)
+        //{
+        //    ViewBag.CauHoi = new SelectList(LoadCauHoi());
+        //    //kiểm tra capcha hợp lệ
+        //    if (this.IsCaptchaValid("Capcha is not valid"))
+        //    {
+        //        ViewBag.ThongBao = "Success";
+        //        //thêm khách hàng vào csdl
+        //        if (ModelState.IsValid)
+        //        {
+        //            var username = db.ThanhViens.SingleOrDefault(m => m.TaiKhoan == tv.TaiKhoan);
+        //            var email = db.ThanhViens.SingleOrDefault(m => m.Email.Equals(tv.Email));
+        //            if (username != null)
+        //            {
+        //                ModelState.AddModelError("", "Tài khoản đã được sử dụng");
+        //            }
+        //            else if (email != null)
+        //            {
+        //                ModelState.AddModelError("", "Email đã được sử dụng");
+        //            }
+        //            else
+        //            {
+        //                var user = new ThanhVien();
+        //                user.HoTen = tv.HoTen;
+        //                user.KhachHangs = tv.KhachHangs;
+        //                user.Email = tv.Email;
+        //                user.DiaChi = tv.DiaChi;
+        //                user.CauHoi = tv.CauHoi;
+        //                user.CauTraLoi = tv.CauTraLoi;
+        //                user.BinhLuans = tv.BinhLuans;
+        //                user.MatKhau = tv.MatKhau;
+        //                user.SoDienThoai = tv.SoDienThoai;
+        //                user.TaiKhoan = tv.TaiKhoan;
+        //                db.ThanhViens.Add(user);
+        //                db.SaveChanges();
+        //                return RedirectToAction("Index");
+        //            }
+        //        }
+        //        //db.ThanhViens.Add(tv);
+        //        //db.SaveChanges();
+        //        //return View();
+        //    }
+        //    ViewBag.ThongBao = "Wrong Capcha";
 
-            return View();
-        }
+        //    return RedirectToAction("DangKy", "");
+        //}
         //load cau hỏi bí mật
         public List<string> LoadCauHoi()
         {
