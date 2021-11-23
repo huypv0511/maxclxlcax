@@ -1,0 +1,58 @@
+﻿@using WebSiteBanHang.Models
+@model itemGioHang
+@{
+    ViewBag.Title = "SuaGioHang";
+    Layout = "~/Views/Layout/HomeLayout.cshtml";
+}
+
+@{ 
+    List<itemGioHang> lstGioHang = ViewBag.GioHang as List<itemGioHang>;
+}
+<table class="table">
+    <tr>
+        <td>Product code</td>
+        <td>Product name</td>
+        <td></td>
+        <td>Quantity</td>
+        <td>Unit price</td>
+        <td>Total amount</td>
+        <td></td>
+    </tr>
+    @foreach (var item in lstGioHang)
+    {
+        //sản phẩm có mã sản phẩm  được chỉnh gửi từ tham số bên giỏ hàng
+        if (Model.MaSP == item.MaSP)
+        {
+            using (Html.BeginForm("CapNhatGioHang", "GioHang", new { MaSP = item.MaSP }, FormMethod.Post))
+            {
+                <tr>
+                    <td>@item.MaSP</td>
+                    <td>@item.TenSP</td>
+                    <td><img src="@Url.Content("~/Content/images/"+item.HinhAnh)" width="50" height="50"</td>
+                    <td>@Html.TextBox("SoLuong", item.SoLuong) </td>
+                    <td>@item.DonGia.ToString("#,##") vnd</td>
+                    <td>@item.ThanhTien.ToString("#,##") vnd</td>
+                    <td><input type="submit" value="Update" id="SoLuong" />
+                        @Html.ActionLink("Delete", "XoaGioHang", new { @MaSP = item.MaSP })
+                    </td>
+                </tr>
+            }
+        }
+        else
+        {
+            <tr>
+                <td>@item.MaSP</td>
+                <td>@item.TenSP</td>
+                <td><img src="@Url.Content("~/Content/images/" + item.HinhAnh)" width="50" height="50"</td>
+                <td>@item.SoLuong</td>
+                <td>@item.DonGia.ToString("#,##") vnd</td>
+                <td>@item.ThanhTien.ToString("#,##") vnd</td>
+                <td>@Html.ActionLink("Update", "SuaGioHang", new { @MaSP = item.MaSP })
+                    @Html.ActionLink("Delete", "XoaGioHang", new { @MaSP = item.MaSP })              
+                </td>
+            </tr>          
+        }
+
+    }
+</table>
+

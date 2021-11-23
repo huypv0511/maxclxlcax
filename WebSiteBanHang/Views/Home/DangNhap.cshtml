@@ -1,0 +1,133 @@
+﻿@using WebSiteBanHang.Models
+@model ThanhVien
+@{
+    ViewBag.Title = "DangNhap";
+    Layout = "~/Views/Layout/HomeLayout.cshtml";
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+            background-color: black;
+        }
+
+        * {
+            box-sizing: border-box;
+        }
+
+        /* Add padding to containers */
+
+
+        /* Full-width input fields */
+        input[type=text], input[type=password] {
+            width: 100%;
+            padding: 15px;
+            margin: 5px 0 22px 0;
+            display: inline-block;
+            border: none;
+            background: #f1f1f1;
+        }
+
+            input[type=text]:focus, input[type=password]:focus {
+                background-color: #ddd;
+                outline: none;
+            }
+
+        /* Overwrite default styles of hr */
+        hr {
+            border: 1px solid #f1f1f1;
+            margin-bottom: 25px;
+        }
+
+        /* Set a style for the submit button */
+        .registerbtn {
+            background-color: #04AA6D;
+            color: white;
+            padding: 16px 20px;
+            margin: 8px 0;
+            border: none;
+            cursor: pointer;
+            width: 100%;
+            opacity: 0.9;
+        }
+
+            .registerbtn:hover {
+                opacity: 1;
+            }
+
+        /* Add a blue text color to links */
+        a {
+            color: dodgerblue;
+        }
+
+        /* Set a grey background color and center the text of the "sign in" section */
+        .signin {
+            background-color: #f1f1f1;
+            text-align: center;
+        }
+
+        .float-container {
+            border: 0px;
+            padding: 20px;
+        }
+
+        .float-child {
+            width: 50%;
+            float: left;
+            padding: 20px;
+            border: 0px;
+        }
+        .half-cont {
+            width: 50%;
+            padding: 20px;
+            border: 0px;
+        }
+    </style>
+
+</head>
+<body>
+    @using (Ajax.BeginForm("DangNhap", "Home", new AjaxOptions { InsertionMode = InsertionMode.Replace, UpdateTargetId = "Notify" }))
+    {
+
+        if (Session["TaiKhoan"] != null)
+        {
+            ThanhVien tv = (ThanhVien)Session["TaiKhoan"];
+
+            <span> Welcome @tv.TaiKhoan </span>
+            @Html.ActionLink("LogOut", "DangXuat", "Home")
+        }
+        else
+        {
+            //<h2><a href="@Url.Action("DangNhap","Home")" class="btn btn-outline-success my-2 my-sm-0">Login</a>  <a href="@Url.Action("DangKy","Home")" class="btn btn-outline-success my-2 my-sm-0">Register</a></h2>
+            <div class="container">
+                <h1>Login</h1>
+                <hr>
+
+                <div class="container">
+                    <div class="half-cont">
+                        <label name="txtTenDangNhap">Account</label>
+                        @*<input required="" type="email" />*@
+                        @Html.TextBox("Email")
+                        <label name="txtMatKhau">Password</label>
+                        @*<input required="" type="password" />*@
+                        @Html.Password("MatKhau")
+                        <h4 style="color:red;"> @ViewBag.BaoLoi</h4>
+                        <input class="btn btn-outline-success my-2 my-sm-0" type="submit" value="Login" />
+                    </div>
+
+                </div>
+                <hr />
+            </div>
+        }
+
+
+
+
+    }
+
+</body>
+
+</html>

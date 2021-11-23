@@ -1,0 +1,427 @@
+C:\Users\giath\OneDrive\Máy tính\WebSiteBanHang\bin\WebSiteBanHang.dll.config
+C:\Users\giath\OneDrive\Máy tính\WebSiteBanHang\bin\WebSiteBanHang.dll
+C:\Users\giath\OneDrive\Máy tính\WebSiteBanHang\bin\WebSiteBanHang.pdb
+C:\Users\giath\OneDrive\Máy tính\WebSiteBanHang\bin\roslyn\csc.exe
+C:\Users\giath\OneDrive\Máy tính\WebSiteBanHang\bin\roslyn\csc.exe.config
+C:\Users\giath\OneDrive\Máy tính\WebSiteBanHang\bin\roslyn\csc.rsp
+C:\Users\giath\OneDrive\Máy tính\WebSiteBanHang\bin\roslyn\csi.exe
+C:\Users\giath\OneDrive\Máy tính\WebSiteBanHang\bin\roslyn\csi.exe.config
+C:\Users\giath\OneDrive\Máy tính\WebSiteBanHang\bin\roslyn\csi.rsp
+C:\Users\giath\OneDrive\Máy tính\WebSiteBanHang\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\giath\OneDrive\Máy tính\WebSiteBanHang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\giath\OneDrive\Máy tính\WebSiteBanHang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\giath\OneDrive\Máy tính\WebSiteBanHang\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\giath\OneDrive\Máy tính\WebSiteBanHang\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\giath\OneDrive\Máy tính\WebSiteBanHang\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\giath\OneDrive\Máy tính\WebSiteBanHang\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\giath\OneDrive\Máy tính\WebSiteBanHang\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\giath\OneDrive\Máy tính\WebSiteBanHang\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\giath\OneDrive\Máy tính\WebSiteBanHang\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\giath\OneDrive\Máy tính\WebSiteBanHang\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\giath\OneDrive\Máy tính\WebSiteBanHang\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\giath\OneDrive\Máy tính\WebSiteBanHang\bin\roslyn\System.AppContext.dll
+C:\Users\giath\OneDrive\Máy tính\WebSiteBanHang\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\giath\OneDrive\Máy tính\WebSiteBanHang\bin\roslyn\System.Console.dll
+C:\Users\giath\OneDrive\Máy tính\WebSiteBanHang\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\giath\OneDrive\Máy tính\WebSiteBanHang\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\giath\OneDrive\Máy tính\WebSiteBanHang\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\giath\OneDrive\Máy tính\WebSiteBanHang\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\giath\OneDrive\Máy tính\WebSiteBanHang\bin\roslyn\System.IO.Compression.dll
+C:\Users\giath\OneDrive\Máy tính\WebSiteBanHang\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\giath\OneDrive\Máy tính\WebSiteBanHang\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\giath\OneDrive\Máy tính\WebSiteBanHang\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\giath\OneDrive\Máy tính\WebSiteBanHang\bin\roslyn\System.Net.Http.dll
+C:\Users\giath\OneDrive\Máy tính\WebSiteBanHang\bin\roslyn\System.Net.Sockets.dll
+C:\Users\giath\OneDrive\Máy tính\WebSiteBanHang\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\giath\OneDrive\Máy tính\WebSiteBanHang\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\giath\OneDrive\Máy tính\WebSiteBanHang\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\giath\OneDrive\Máy tính\WebSiteBanHang\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\giath\OneDrive\Máy tính\WebSiteBanHang\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\giath\OneDrive\Máy tính\WebSiteBanHang\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\giath\OneDrive\Máy tính\WebSiteBanHang\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\giath\OneDrive\Máy tính\WebSiteBanHang\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\giath\OneDrive\Máy tính\WebSiteBanHang\bin\roslyn\System.ValueTuple.dll
+C:\Users\giath\OneDrive\Máy tính\WebSiteBanHang\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\giath\OneDrive\Máy tính\WebSiteBanHang\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\giath\OneDrive\Máy tính\WebSiteBanHang\bin\roslyn\System.Xml.XPath.dll
+C:\Users\giath\OneDrive\Máy tính\WebSiteBanHang\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\giath\OneDrive\Máy tính\WebSiteBanHang\bin\roslyn\vbc.exe
+C:\Users\giath\OneDrive\Máy tính\WebSiteBanHang\bin\roslyn\vbc.exe.config
+C:\Users\giath\OneDrive\Máy tính\WebSiteBanHang\bin\roslyn\vbc.rsp
+C:\Users\giath\OneDrive\Máy tính\WebSiteBanHang\bin\roslyn\VBCSCompiler.exe
+C:\Users\giath\OneDrive\Máy tính\WebSiteBanHang\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\giath\OneDrive\Máy tính\WebSiteBanHang\bin\Antlr3.Runtime.dll
+C:\Users\giath\OneDrive\Máy tính\WebSiteBanHang\bin\EntityFramework.dll
+C:\Users\giath\OneDrive\Máy tính\WebSiteBanHang\bin\EntityFramework.SqlServer.dll
+C:\Users\giath\OneDrive\Máy tính\WebSiteBanHang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\giath\OneDrive\Máy tính\WebSiteBanHang\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\giath\OneDrive\Máy tính\WebSiteBanHang\bin\Newtonsoft.Json.dll
+C:\Users\giath\OneDrive\Máy tính\WebSiteBanHang\bin\System.Web.Helpers.dll
+C:\Users\giath\OneDrive\Máy tính\WebSiteBanHang\bin\System.Web.Mvc.dll
+C:\Users\giath\OneDrive\Máy tính\WebSiteBanHang\bin\System.Web.Optimization.dll
+C:\Users\giath\OneDrive\Máy tính\WebSiteBanHang\bin\System.Web.Razor.dll
+C:\Users\giath\OneDrive\Máy tính\WebSiteBanHang\bin\System.Web.WebPages.Deployment.dll
+C:\Users\giath\OneDrive\Máy tính\WebSiteBanHang\bin\System.Web.WebPages.dll
+C:\Users\giath\OneDrive\Máy tính\WebSiteBanHang\bin\System.Web.WebPages.Razor.dll
+C:\Users\giath\OneDrive\Máy tính\WebSiteBanHang\bin\WebGrease.dll
+C:\Users\giath\OneDrive\Máy tính\WebSiteBanHang\bin\EntityFramework.xml
+C:\Users\giath\OneDrive\Máy tính\WebSiteBanHang\bin\EntityFramework.SqlServer.xml
+C:\Users\giath\OneDrive\Máy tính\WebSiteBanHang\bin\System.Web.Helpers.xml
+C:\Users\giath\OneDrive\Máy tính\WebSiteBanHang\bin\System.Web.Mvc.xml
+C:\Users\giath\OneDrive\Máy tính\WebSiteBanHang\bin\System.Web.Optimization.xml
+C:\Users\giath\OneDrive\Máy tính\WebSiteBanHang\bin\System.Web.Razor.xml
+C:\Users\giath\OneDrive\Máy tính\WebSiteBanHang\bin\System.Web.WebPages.xml
+C:\Users\giath\OneDrive\Máy tính\WebSiteBanHang\bin\System.Web.WebPages.Deployment.xml
+C:\Users\giath\OneDrive\Máy tính\WebSiteBanHang\bin\System.Web.WebPages.Razor.xml
+C:\Users\giath\OneDrive\Máy tính\WebSiteBanHang\bin\Newtonsoft.Json.xml
+C:\Users\giath\OneDrive\Máy tính\WebSiteBanHang\bin\Antlr3.Runtime.pdb
+C:\Users\giath\OneDrive\Máy tính\WebSiteBanHang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\giath\OneDrive\Máy tính\WebSiteBanHang\obj\Debug\WebSiteBanHang.csprojAssemblyReference.cache
+C:\Users\giath\OneDrive\Máy tính\WebSiteBanHang\obj\Debug\WebSiteBanHang.csproj.CoreCompileInputs.cache
+C:\Users\giath\OneDrive\Máy tính\WebSiteBanHang\obj\Debug\WebSiteBanHang.csproj.CopyComplete
+C:\Users\giath\OneDrive\Máy tính\WebSiteBanHang\obj\Debug\WebSiteBanHang.dll
+C:\Users\giath\OneDrive\Máy tính\WebSiteBanHang\obj\Debug\WebSiteBanHang.pdb
+C:\Users\ASUS\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\WebSiteBanHang.dll.config
+C:\Users\ASUS\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\WebSiteBanHang.dll
+C:\Users\ASUS\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\WebSiteBanHang.pdb
+C:\Users\ASUS\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\roslyn\csc.exe
+C:\Users\ASUS\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\roslyn\csc.exe.config
+C:\Users\ASUS\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\roslyn\csc.rsp
+C:\Users\ASUS\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\roslyn\csi.exe
+C:\Users\ASUS\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\roslyn\csi.exe.config
+C:\Users\ASUS\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\roslyn\csi.rsp
+C:\Users\ASUS\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ASUS\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ASUS\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ASUS\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ASUS\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ASUS\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ASUS\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ASUS\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ASUS\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ASUS\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ASUS\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ASUS\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ASUS\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\roslyn\System.AppContext.dll
+C:\Users\ASUS\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ASUS\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\roslyn\System.Console.dll
+C:\Users\ASUS\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ASUS\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ASUS\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ASUS\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ASUS\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\roslyn\System.IO.Compression.dll
+C:\Users\ASUS\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ASUS\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ASUS\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ASUS\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\roslyn\System.Net.Http.dll
+C:\Users\ASUS\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ASUS\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ASUS\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ASUS\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ASUS\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ASUS\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ASUS\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ASUS\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ASUS\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ASUS\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\roslyn\System.ValueTuple.dll
+C:\Users\ASUS\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ASUS\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ASUS\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ASUS\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ASUS\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\roslyn\vbc.exe
+C:\Users\ASUS\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\roslyn\vbc.exe.config
+C:\Users\ASUS\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\roslyn\vbc.rsp
+C:\Users\ASUS\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\roslyn\VBCSCompiler.exe
+C:\Users\ASUS\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ASUS\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\Antlr3.Runtime.dll
+C:\Users\ASUS\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\EntityFramework.dll
+C:\Users\ASUS\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\EntityFramework.SqlServer.dll
+C:\Users\ASUS\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ASUS\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ASUS\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\Newtonsoft.Json.dll
+C:\Users\ASUS\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\System.Web.Helpers.dll
+C:\Users\ASUS\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\System.Web.Mvc.dll
+C:\Users\ASUS\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\System.Web.Optimization.dll
+C:\Users\ASUS\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\System.Web.Razor.dll
+C:\Users\ASUS\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ASUS\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\System.Web.WebPages.dll
+C:\Users\ASUS\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\System.Web.WebPages.Razor.dll
+C:\Users\ASUS\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\WebGrease.dll
+C:\Users\ASUS\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\EntityFramework.xml
+C:\Users\ASUS\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\EntityFramework.SqlServer.xml
+C:\Users\ASUS\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\System.Web.Helpers.xml
+C:\Users\ASUS\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\System.Web.Mvc.xml
+C:\Users\ASUS\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\System.Web.Optimization.xml
+C:\Users\ASUS\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\System.Web.Razor.xml
+C:\Users\ASUS\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\System.Web.WebPages.xml
+C:\Users\ASUS\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ASUS\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\System.Web.WebPages.Razor.xml
+C:\Users\ASUS\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\Newtonsoft.Json.xml
+C:\Users\ASUS\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\Antlr3.Runtime.pdb
+C:\Users\ASUS\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ASUS\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\obj\Debug\WebSiteBanHang.csprojAssemblyReference.cache
+C:\Users\ASUS\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\obj\Debug\WebSiteBanHang.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\obj\Debug\WebSiteBanHang.csproj.CopyComplete
+C:\Users\ASUS\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\obj\Debug\WebSiteBanHang.dll
+C:\Users\ASUS\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\obj\Debug\WebSiteBanHang.pdb
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\WebSiteBanHang.dll.config
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\WebSiteBanHang.dll
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\WebSiteBanHang.pdb
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\roslyn\csc.exe
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\roslyn\csc.exe.config
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\roslyn\csc.rsp
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\roslyn\csi.exe
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\roslyn\csi.exe.config
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\roslyn\csi.rsp
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\roslyn\System.AppContext.dll
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\roslyn\System.Console.dll
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\roslyn\System.IO.Compression.dll
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\roslyn\System.Net.Http.dll
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\roslyn\System.Net.Sockets.dll
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\roslyn\System.ValueTuple.dll
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\roslyn\System.Xml.XPath.dll
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\roslyn\vbc.exe
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\roslyn\vbc.exe.config
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\roslyn\vbc.rsp
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\roslyn\VBCSCompiler.exe
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\Antlr3.Runtime.dll
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\EntityFramework.dll
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\EntityFramework.SqlServer.dll
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\Newtonsoft.Json.dll
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\System.Web.Helpers.dll
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\System.Web.Mvc.dll
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\System.Web.Optimization.dll
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\System.Web.Razor.dll
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\System.Web.WebPages.Deployment.dll
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\System.Web.WebPages.dll
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\System.Web.WebPages.Razor.dll
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\WebGrease.dll
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\EntityFramework.xml
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\EntityFramework.SqlServer.xml
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\System.Web.Helpers.xml
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\System.Web.Mvc.xml
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\System.Web.Optimization.xml
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\System.Web.Razor.xml
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\System.Web.WebPages.xml
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\System.Web.WebPages.Deployment.xml
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\System.Web.WebPages.Razor.xml
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\Newtonsoft.Json.xml
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\Antlr3.Runtime.pdb
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\obj\Debug\WebSiteBanHang.csprojAssemblyReference.cache
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\obj\Debug\WebSiteBanHang.csproj.CoreCompileInputs.cache
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\obj\Debug\WebSiteBanHang.csproj.CopyComplete
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\obj\Debug\WebSiteBanHang.dll
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\obj\Debug\WebSiteBanHang.pdb
+C:\Users\ASUS\Documents\GitHub\Maxxel2\Back_End\WebSiteBanHang\bin\WebSiteBanHang.dll.config
+C:\Users\ASUS\Documents\GitHub\Maxxel2\Back_End\WebSiteBanHang\bin\WebSiteBanHang.dll
+C:\Users\ASUS\Documents\GitHub\Maxxel2\Back_End\WebSiteBanHang\bin\WebSiteBanHang.pdb
+C:\Users\ASUS\Documents\GitHub\Maxxel2\Back_End\WebSiteBanHang\bin\roslyn\csc.exe
+C:\Users\ASUS\Documents\GitHub\Maxxel2\Back_End\WebSiteBanHang\bin\roslyn\csc.exe.config
+C:\Users\ASUS\Documents\GitHub\Maxxel2\Back_End\WebSiteBanHang\bin\roslyn\csc.rsp
+C:\Users\ASUS\Documents\GitHub\Maxxel2\Back_End\WebSiteBanHang\bin\roslyn\csi.exe
+C:\Users\ASUS\Documents\GitHub\Maxxel2\Back_End\WebSiteBanHang\bin\roslyn\csi.exe.config
+C:\Users\ASUS\Documents\GitHub\Maxxel2\Back_End\WebSiteBanHang\bin\roslyn\csi.rsp
+C:\Users\ASUS\Documents\GitHub\Maxxel2\Back_End\WebSiteBanHang\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ASUS\Documents\GitHub\Maxxel2\Back_End\WebSiteBanHang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ASUS\Documents\GitHub\Maxxel2\Back_End\WebSiteBanHang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ASUS\Documents\GitHub\Maxxel2\Back_End\WebSiteBanHang\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ASUS\Documents\GitHub\Maxxel2\Back_End\WebSiteBanHang\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ASUS\Documents\GitHub\Maxxel2\Back_End\WebSiteBanHang\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ASUS\Documents\GitHub\Maxxel2\Back_End\WebSiteBanHang\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ASUS\Documents\GitHub\Maxxel2\Back_End\WebSiteBanHang\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ASUS\Documents\GitHub\Maxxel2\Back_End\WebSiteBanHang\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ASUS\Documents\GitHub\Maxxel2\Back_End\WebSiteBanHang\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ASUS\Documents\GitHub\Maxxel2\Back_End\WebSiteBanHang\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ASUS\Documents\GitHub\Maxxel2\Back_End\WebSiteBanHang\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ASUS\Documents\GitHub\Maxxel2\Back_End\WebSiteBanHang\bin\roslyn\System.AppContext.dll
+C:\Users\ASUS\Documents\GitHub\Maxxel2\Back_End\WebSiteBanHang\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ASUS\Documents\GitHub\Maxxel2\Back_End\WebSiteBanHang\bin\roslyn\System.Console.dll
+C:\Users\ASUS\Documents\GitHub\Maxxel2\Back_End\WebSiteBanHang\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ASUS\Documents\GitHub\Maxxel2\Back_End\WebSiteBanHang\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ASUS\Documents\GitHub\Maxxel2\Back_End\WebSiteBanHang\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ASUS\Documents\GitHub\Maxxel2\Back_End\WebSiteBanHang\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ASUS\Documents\GitHub\Maxxel2\Back_End\WebSiteBanHang\bin\roslyn\System.IO.Compression.dll
+C:\Users\ASUS\Documents\GitHub\Maxxel2\Back_End\WebSiteBanHang\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ASUS\Documents\GitHub\Maxxel2\Back_End\WebSiteBanHang\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ASUS\Documents\GitHub\Maxxel2\Back_End\WebSiteBanHang\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ASUS\Documents\GitHub\Maxxel2\Back_End\WebSiteBanHang\bin\roslyn\System.Net.Http.dll
+C:\Users\ASUS\Documents\GitHub\Maxxel2\Back_End\WebSiteBanHang\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ASUS\Documents\GitHub\Maxxel2\Back_End\WebSiteBanHang\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ASUS\Documents\GitHub\Maxxel2\Back_End\WebSiteBanHang\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ASUS\Documents\GitHub\Maxxel2\Back_End\WebSiteBanHang\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ASUS\Documents\GitHub\Maxxel2\Back_End\WebSiteBanHang\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ASUS\Documents\GitHub\Maxxel2\Back_End\WebSiteBanHang\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ASUS\Documents\GitHub\Maxxel2\Back_End\WebSiteBanHang\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ASUS\Documents\GitHub\Maxxel2\Back_End\WebSiteBanHang\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ASUS\Documents\GitHub\Maxxel2\Back_End\WebSiteBanHang\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ASUS\Documents\GitHub\Maxxel2\Back_End\WebSiteBanHang\bin\roslyn\System.ValueTuple.dll
+C:\Users\ASUS\Documents\GitHub\Maxxel2\Back_End\WebSiteBanHang\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ASUS\Documents\GitHub\Maxxel2\Back_End\WebSiteBanHang\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ASUS\Documents\GitHub\Maxxel2\Back_End\WebSiteBanHang\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ASUS\Documents\GitHub\Maxxel2\Back_End\WebSiteBanHang\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ASUS\Documents\GitHub\Maxxel2\Back_End\WebSiteBanHang\bin\roslyn\vbc.exe
+C:\Users\ASUS\Documents\GitHub\Maxxel2\Back_End\WebSiteBanHang\bin\roslyn\vbc.exe.config
+C:\Users\ASUS\Documents\GitHub\Maxxel2\Back_End\WebSiteBanHang\bin\roslyn\vbc.rsp
+C:\Users\ASUS\Documents\GitHub\Maxxel2\Back_End\WebSiteBanHang\bin\roslyn\VBCSCompiler.exe
+C:\Users\ASUS\Documents\GitHub\Maxxel2\Back_End\WebSiteBanHang\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ASUS\Documents\GitHub\Maxxel2\Back_End\WebSiteBanHang\bin\Antlr3.Runtime.dll
+C:\Users\ASUS\Documents\GitHub\Maxxel2\Back_End\WebSiteBanHang\bin\EntityFramework.dll
+C:\Users\ASUS\Documents\GitHub\Maxxel2\Back_End\WebSiteBanHang\bin\EntityFramework.SqlServer.dll
+C:\Users\ASUS\Documents\GitHub\Maxxel2\Back_End\WebSiteBanHang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ASUS\Documents\GitHub\Maxxel2\Back_End\WebSiteBanHang\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ASUS\Documents\GitHub\Maxxel2\Back_End\WebSiteBanHang\bin\Newtonsoft.Json.dll
+C:\Users\ASUS\Documents\GitHub\Maxxel2\Back_End\WebSiteBanHang\bin\System.Web.Helpers.dll
+C:\Users\ASUS\Documents\GitHub\Maxxel2\Back_End\WebSiteBanHang\bin\System.Web.Mvc.dll
+C:\Users\ASUS\Documents\GitHub\Maxxel2\Back_End\WebSiteBanHang\bin\System.Web.Optimization.dll
+C:\Users\ASUS\Documents\GitHub\Maxxel2\Back_End\WebSiteBanHang\bin\System.Web.Razor.dll
+C:\Users\ASUS\Documents\GitHub\Maxxel2\Back_End\WebSiteBanHang\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ASUS\Documents\GitHub\Maxxel2\Back_End\WebSiteBanHang\bin\System.Web.WebPages.dll
+C:\Users\ASUS\Documents\GitHub\Maxxel2\Back_End\WebSiteBanHang\bin\System.Web.WebPages.Razor.dll
+C:\Users\ASUS\Documents\GitHub\Maxxel2\Back_End\WebSiteBanHang\bin\WebGrease.dll
+C:\Users\ASUS\Documents\GitHub\Maxxel2\Back_End\WebSiteBanHang\bin\EntityFramework.xml
+C:\Users\ASUS\Documents\GitHub\Maxxel2\Back_End\WebSiteBanHang\bin\EntityFramework.SqlServer.xml
+C:\Users\ASUS\Documents\GitHub\Maxxel2\Back_End\WebSiteBanHang\bin\System.Web.Helpers.xml
+C:\Users\ASUS\Documents\GitHub\Maxxel2\Back_End\WebSiteBanHang\bin\System.Web.Mvc.xml
+C:\Users\ASUS\Documents\GitHub\Maxxel2\Back_End\WebSiteBanHang\bin\System.Web.Optimization.xml
+C:\Users\ASUS\Documents\GitHub\Maxxel2\Back_End\WebSiteBanHang\bin\System.Web.Razor.xml
+C:\Users\ASUS\Documents\GitHub\Maxxel2\Back_End\WebSiteBanHang\bin\System.Web.WebPages.xml
+C:\Users\ASUS\Documents\GitHub\Maxxel2\Back_End\WebSiteBanHang\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ASUS\Documents\GitHub\Maxxel2\Back_End\WebSiteBanHang\bin\System.Web.WebPages.Razor.xml
+C:\Users\ASUS\Documents\GitHub\Maxxel2\Back_End\WebSiteBanHang\bin\Newtonsoft.Json.xml
+C:\Users\ASUS\Documents\GitHub\Maxxel2\Back_End\WebSiteBanHang\bin\Antlr3.Runtime.pdb
+C:\Users\ASUS\Documents\GitHub\Maxxel2\Back_End\WebSiteBanHang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ASUS\Documents\GitHub\Maxxel2\Back_End\WebSiteBanHang\obj\Debug\WebSiteBanHang.csprojAssemblyReference.cache
+C:\Users\ASUS\Documents\GitHub\Maxxel2\Back_End\WebSiteBanHang\obj\Debug\WebSiteBanHang.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\GitHub\Maxxel2\Back_End\WebSiteBanHang\obj\Debug\WebSiteBanHang.csproj.CopyComplete
+C:\Users\ASUS\Documents\GitHub\Maxxel2\Back_End\WebSiteBanHang\obj\Debug\WebSiteBanHang.dll
+C:\Users\ASUS\Documents\GitHub\Maxxel2\Back_End\WebSiteBanHang\obj\Debug\WebSiteBanHang.pdb
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\CaptchaMvc.dll
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\CaptchaMvc.pdb
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\CaptchaMvc.xml
+C:\Users\ASUS\Documents\GitHub\Maxxel2\Back_End\WebSiteBanHang\bin\CaptchaMvc.dll
+C:\Users\ASUS\Documents\GitHub\Maxxel2\Back_End\WebSiteBanHang\bin\CaptchaMvc.pdb
+C:\Users\ASUS\Documents\GitHub\Maxxel2\Back_End\WebSiteBanHang\bin\CaptchaMvc.xml
+C:\Users\ASUS\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\CaptchaMvc.dll
+C:\Users\ASUS\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\CaptchaMvc.pdb
+C:\Users\ASUS\Documents\GitHub\Maxxel\Back_End\WebSiteBanHang\bin\CaptchaMvc.xml
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel-and-Chi\bin\WebSiteBanHang.dll.config
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel-and-Chi\bin\WebSiteBanHang.dll
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel-and-Chi\bin\WebSiteBanHang.pdb
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel-and-Chi\bin\roslyn\csc.exe
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel-and-Chi\bin\roslyn\csc.exe.config
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel-and-Chi\bin\roslyn\csc.rsp
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel-and-Chi\bin\roslyn\csi.exe
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel-and-Chi\bin\roslyn\csi.exe.config
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel-and-Chi\bin\roslyn\csi.rsp
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel-and-Chi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel-and-Chi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel-and-Chi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel-and-Chi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel-and-Chi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel-and-Chi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel-and-Chi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel-and-Chi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel-and-Chi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel-and-Chi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel-and-Chi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel-and-Chi\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel-and-Chi\bin\roslyn\System.AppContext.dll
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel-and-Chi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel-and-Chi\bin\roslyn\System.Console.dll
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel-and-Chi\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel-and-Chi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel-and-Chi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel-and-Chi\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel-and-Chi\bin\roslyn\System.IO.Compression.dll
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel-and-Chi\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel-and-Chi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel-and-Chi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel-and-Chi\bin\roslyn\System.Net.Http.dll
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel-and-Chi\bin\roslyn\System.Net.Sockets.dll
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel-and-Chi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel-and-Chi\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel-and-Chi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel-and-Chi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel-and-Chi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel-and-Chi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel-and-Chi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel-and-Chi\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel-and-Chi\bin\roslyn\System.ValueTuple.dll
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel-and-Chi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel-and-Chi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel-and-Chi\bin\roslyn\System.Xml.XPath.dll
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel-and-Chi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel-and-Chi\bin\roslyn\vbc.exe
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel-and-Chi\bin\roslyn\vbc.exe.config
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel-and-Chi\bin\roslyn\vbc.rsp
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel-and-Chi\bin\roslyn\VBCSCompiler.exe
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel-and-Chi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel-and-Chi\bin\Antlr3.Runtime.dll
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel-and-Chi\bin\CaptchaMvc.dll
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel-and-Chi\bin\EntityFramework.dll
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel-and-Chi\bin\EntityFramework.SqlServer.dll
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel-and-Chi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel-and-Chi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel-and-Chi\bin\Newtonsoft.Json.dll
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel-and-Chi\bin\System.Web.Helpers.dll
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel-and-Chi\bin\System.Web.Mvc.dll
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel-and-Chi\bin\System.Web.Optimization.dll
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel-and-Chi\bin\System.Web.Razor.dll
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel-and-Chi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel-and-Chi\bin\System.Web.WebPages.dll
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel-and-Chi\bin\System.Web.WebPages.Razor.dll
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel-and-Chi\bin\WebGrease.dll
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel-and-Chi\bin\CaptchaMvc.pdb
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel-and-Chi\bin\CaptchaMvc.xml
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel-and-Chi\bin\EntityFramework.xml
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel-and-Chi\bin\EntityFramework.SqlServer.xml
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel-and-Chi\bin\System.Web.Helpers.xml
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel-and-Chi\bin\System.Web.Mvc.xml
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel-and-Chi\bin\System.Web.Optimization.xml
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel-and-Chi\bin\System.Web.Razor.xml
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel-and-Chi\bin\System.Web.WebPages.xml
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel-and-Chi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel-and-Chi\bin\System.Web.WebPages.Razor.xml
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel-and-Chi\bin\Newtonsoft.Json.xml
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel-and-Chi\bin\Antlr3.Runtime.pdb
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel-and-Chi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel-and-Chi\obj\Debug\WebSiteBanHang.csprojAssemblyReference.cache
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel-and-Chi\obj\Debug\WebSiteBanHang.csproj.CoreCompileInputs.cache
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel-and-Chi\obj\Debug\WebSiteBanHang.csproj.CopyComplete
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel-and-Chi\obj\Debug\WebSiteBanHang.dll
+C:\Users\giath\OneDrive\Documents\GitHub\Maxxel-and-Chi\obj\Debug\WebSiteBanHang.pdb

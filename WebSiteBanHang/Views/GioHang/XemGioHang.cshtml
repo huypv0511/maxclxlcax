@@ -1,0 +1,91 @@
+﻿@using WebSiteBanHang.Models
+
+@model List<itemGioHang>
+@{
+    ViewBag.Title = "XemGioHang";
+    Layout = "~/Views/Layout/HomeLayout.cshtml";
+}
+
+@if (Model == null || Model.Count == 0)
+{
+    <center><h1 style="color:#000;">Cart is empty</h1></center>
+    <center> @Html.ActionLink("Buy more", "Index", "Home", new { @class = "btn btn-outline-success my-2 my-sm-0" })</center>
+}
+else
+{
+<table class="table">
+    <tr>
+        <td>Product code</td>
+        <td>Product name</td>
+        <td></td>
+        <td>Quantity</td>
+        <td>Unit price</td>
+        <td>Total amount</td>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.MaSP</td>
+            <td>@item.TenSP</td>
+            <td><img src="@Url.Content("~/Content/images/"+item.HinhAnh)" width="50" height="50"</td>
+            <td>@item.SoLuong</td>
+            <td>@item.DonGia.ToString("#,##") vnd</td>
+            <td>@item.ThanhTien.ToString("#,##") vnd</td>
+            <td>
+                @Html.ActionLink("Update", "SuaGioHang", new { @MaSP = item.MaSP })
+                @Html.ActionLink("Delete", "XoaGioHang", new { @MaSP = item.MaSP }, new { @class = "btn btn-coke" })
+            </td>
+        </tr>
+    }
+</table>
+
+
+<div style="text-align:right ">
+    @using (Html.BeginForm("DatHang", "GioHang"))
+    {
+        {
+    <div class="container">
+        <div class="half-cont">
+            <tr>
+                <td align="center" colspan="2"><b>Customer information</b></td>
+            </tr>
+            <tr>
+                <td>Name</td>
+                <td>
+                    @Html.TextBox("TenKH")
+                </td>
+            </tr>
+            <br />
+            <tr>
+                <td>Address</td>
+                <td>
+                    @Html.TextBox("Diachi")
+                </td>
+            </tr>
+            <br />
+            <tr>
+                <td>Email</td>
+                <td>
+                    @Html.TextBox("Email")
+                </td>
+            </tr>
+            <br />
+            <tr>
+                <td>Phone Number</td>
+                <td>
+                    @Html.TextBox("SoDienThoai")
+                </td>
+            </tr>
+        </div>
+        </div>
+
+        }
+
+        <input class="btn btn-outline-success my-2 my-sm-0" type="submit" value="Order" />
+      // @Html.ActionLink("Menu", "Home", new { @class = "btn btn-outline-success my-2 my-sm-0" })
+        }
+
+    </div>
+}@*Thiết kế form lưu thông tin khách hàng đối với khách ko có tài khoản*@
+
+

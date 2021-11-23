@@ -1,0 +1,70 @@
+﻿@{
+    string isInvisible = Model.MaLoaiSP == 1 ? "" : "invisible";
+}
+<div class="modal-dialog modal-dialog-centered modal-lg" role="document">
+    <div class="modal-content">
+        <div class="card mx-0">
+            <div class="row g-0">
+                <div class="col-5">
+                    <img src="@Url.Content("~/Content/images/" + @Model.HinhAnh)" class="img-fluid rounded-start h-100">
+                </div>
+                <div class="col-7">
+                    <button type="button" class="close p-2" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                    <div class="mr-4 d-flex flex-column h-100">
+                        <div class="card-header bg-transparent p-0 pt-2">
+                            <h4 class="card-title text-primary" style="font-weight: 600; line-height: 1.2;">
+                                @Model.TenSP
+                            </h4>
+                            <small class="card-subtitle text-muted font-weight-bold my-3" style="line-height: 1.25;">
+                                @Model.MoTa
+                            </small>
+                        </div>
+                        <div class="card-body mh-100 p-0 pt-3 @isInvisible">
+                            <h5 class="font-weight-bold">Choose Size</h5>
+                            <div class="list-group list-group-flush">
+                                <div class="form-check list-group-item">
+                                    <input class="form-check-input" type="radio" name="size" id="9Inch" value="9" checked>
+                                    <label class="form-check-label" for="9Inch">
+                                        Size 9 inch = @Model.DonGia VND
+                                    </label>
+                                </div>
+                                <div class="form-check list-group-item">
+                                    <input class="form-check-input" type="radio" name="size" id="12Inch" value="12">
+                                    <label class="form-check-label" for="12Inch">
+                                        Size 12 inch = 149000 VND
+                                    </label>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card-footer bg-transparent px-0">
+                            <div class="form-group float-left col-3 p-0 pr-3 mb-0">
+                                <input id="SoLuong" type="number" class="form-control" value="1" min="1">
+                            </div>
+                            <button id="addToCart" class="btn btn-outline-success my-2 my-sm-0">
+                                Add to cart @Model.DonGia VND
+                            </button>
+                            <div class="clearfix"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<input id="MaSP" type="hidden" value="@Model.MaSP" />
+<script>
+    // update giá cho pizza khi chọn size
+    $('[name=size]').change(function (e) {
+        $('#addToCart').html('Add to cart ' + (e.target.value == 12 ? '149000' : @Model.DonGia) + ' VND');
+    });
+
+    $('#addToCart').click(function (e) {
+        let MaSP = $('#MaSP').val();
+        let is12 = $('[name=size]:checked').val() == 12;
+        let soLuong = $('#SoLuong').val();
+        let strURL = '@Request.UrlReferrer.ToString()';
+        window.location.href = '@Url.Action("ThemGioHang", "GioHang")?MaSP=' + MaSP + '&is12=' + is12 + '&soLuong=' + soLuong + '&strURL=' + strURL;
+    });
+</script>

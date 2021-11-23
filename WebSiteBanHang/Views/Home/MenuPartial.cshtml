@@ -1,0 +1,92 @@
+﻿@using WebSiteBanHang.Models;
+@model IEnumerable<SanPham>
+
+@{
+    ViewBag.Title = "MenuPartial";
+    Layout = "~/Views/Layout/HomeLayout.cshtml";
+}
+<style>
+    .img_flexible_container {
+        display: inline-block;
+        overflow: hidden;
+    }
+
+        .img_flexible_container img {
+            display: block;
+            transition: .3s ease-in-out;
+        }
+
+        .img_flexible_container:hover img {
+            transform: scale(1.3);
+        }
+</style>
+
+< <em><h2 class="text-center">MENU</h2></em>
+
+<nav class="navbar navbar-expand-md">
+    <ul class="nav nav-pills mx-auto">
+        <li class="nav-item">
+            <a href="#tab1" data-toggle="tab" class="nav-link active">Pizza</a>
+        </li>
+
+        <li class="nav-item">
+            <a href="#tab2" data-toggle="tab" class="nav-link">Pasta</a>
+        </li>
+
+        <li class="nav-item">
+            <a href="#tab3" data-toggle="tab" class="nav-link">Side dishes</a>
+        </li>
+
+        <li class="nav-item">
+            <a href="#tab4" data-toggle="tab" class="nav-link">Dessert</a>
+        </li>
+
+        <li class="nav-item">
+            <a href="#tab5" data-toggle="tab" class="nav-link">Drinks</a>
+        </li>
+    </ul>
+</nav>
+<div class="tab-content">
+    @for (int ctr = 1; ctr <= ViewBag.tabCount; ctr++)            //với mỗi loại dish (5)
+    {
+        var curr_ctr = ctr.ToString();                            //lấy số + lên để link vs href
+        var str = "tab" + curr_ctr;                               //concatenate
+        var resupplyModel = Model.Where(n => n.MaLoaiSP == ctr);  //lôi db của những món cùng 1 mã loại sp
+        var status = "fade";                                        //status default của tabpane
+        if (@ctr == 1)
+        {
+            status = "active";                                    // nếu nó là thằng đầu tiên thì chỉnh status thành active
+        }
+
+        <div class="tab-pane container @status" id="@str">
+            @for (int i = 0; i <= (resupplyModel.Count() - 1) / 3; ++i)
+            {
+                <div class="card-deck mb-5">
+                    @for (int j = 0; j < 3 && 3 * i + j < resupplyModel.Count(); ++j)
+                    {
+                        SanPham sp = resupplyModel.ElementAt(3 * i + j);
+                        <div class="card" style="max-width: 21rem;">
+                            <div class="img_flexible_container">
+                                <img class="card-img-top" src="@Url.Content("~/Content/images/" + sp.HinhAnh)" alt="@sp.TenSP">
+                            </div>
+                            <div class="card-body">
+                                <h5 class="card-title text-primary">@sp.TenSP</h5>
+                                <p class="card-text">@sp.MoTa</p>
+
+                            </div>
+                            <div class="card-footer">
+                                <h5 class="card-title">@sp.DonGia VND</h5>
+                                <button type="button" class="btn btn-outline-success my-2 my-sm-0" onclick="showModal(@sp.MaSP)">
+                                    Add to Cart
+                                </button>
+                            </div>
+                        </div>
+                    }
+                </div>
+            }
+        </div>
+
+    }
+    <div class="modal fade" id="chiTietSanPham" tabindex="-1" role="dialog" aria-hidden="true">
+    </div>
+</div>

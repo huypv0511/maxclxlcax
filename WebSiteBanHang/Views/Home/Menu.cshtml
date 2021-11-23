@@ -1,0 +1,12 @@
+﻿@using WebSiteBanHang.Models;
+@model IEnumerable<SanPham>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Layout/HomeLayout.cshtml";
+}
+@{ IEnumerable<SanPham> lstSP = (IEnumerable<SanPham>)ViewBag.ListSP;}
+<em><h2 class="text-center">BEST SELLER </h2></em>
+<hr>
+@Html.Partial("~/Views/Home/MenuPartial.cshtml", lstSP)
+
+    
